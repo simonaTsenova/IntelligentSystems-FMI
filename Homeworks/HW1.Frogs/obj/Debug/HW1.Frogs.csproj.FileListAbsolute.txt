@@ -1,0 +1,7 @@
+C:\Users\simona.tsenova\source\Workspaces\IntelligentSystems-FMI\Homeworks\HW1.Frogs\bin\Debug\HW1.Frogs.exe.config
+C:\Users\simona.tsenova\source\Workspaces\IntelligentSystems-FMI\Homeworks\HW1.Frogs\bin\Debug\HW1.Frogs.exe
+C:\Users\simona.tsenova\source\Workspaces\IntelligentSystems-FMI\Homeworks\HW1.Frogs\bin\Debug\HW1.Frogs.pdb
+C:\Users\simona.tsenova\source\Workspaces\IntelligentSystems-FMI\Homeworks\HW1.Frogs\obj\Debug\HW1.Frogs.csprojAssemblyReference.cache
+C:\Users\simona.tsenova\source\Workspaces\IntelligentSystems-FMI\Homeworks\HW1.Frogs\obj\Debug\HW1.Frogs.csproj.CoreCompileInputs.cache
+C:\Users\simona.tsenova\source\Workspaces\IntelligentSystems-FMI\Homeworks\HW1.Frogs\obj\Debug\HW1.Frogs.exe
+C:\Users\simona.tsenova\source\Workspaces\IntelligentSystems-FMI\Homeworks\HW1.Frogs\obj\Debug\HW1.Frogs.pdb
